@@ -1,3 +1,5 @@
+2022-05-17 Now compatible with upcoming NEURON 9.0.0 (still backward-compatible).
+
 I) To install on a local machine:
 
 1) install anaconda python, includes ipython, numpy, matplotlib
