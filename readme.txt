@@ -1,5 +1,3 @@
-2022-05-17 Now compatible with upcoming NEURON 9.0.0 (still backward-compatible).
-
 I) To install on a local machine:
 
 1) install anaconda python, includes ipython, numpy, matplotlib
@@ -189,3 +187,6 @@ plot_superimpose_conditions('str_with_name_of_output_file') # no suffix necessar
 
 7) PyCharm limits the size of the console output buffer. Change the value of idea.cycle.buffer.size in the idea.properties file in the /bin directory of the install package. To change the size of the terminal output buffer, change the registry key terminal.buffer.max.lines.count. Navigate to Help| Find action| Type "Registry"| Find terminal.buffer.max.lines.count.
 
+Changelog
+---------
+2022-05: Updated MOD files to contain valid C++ and be compatible with the upcoming versions 8.2 and 9.0 of NEURON.
